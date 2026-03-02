@@ -1,4 +1,5 @@
 ---
+mata: 所有輸出一律使用繁體中文撰寫（包括標題、清單、引言等）。
 description: Perform a non-destructive cross-artifact consistency and quality analysis across spec.md, plan.md, and tasks.md after task generation.
 ---
 

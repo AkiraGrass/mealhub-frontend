@@ -1,4 +1,5 @@
 ---
+mata: 所有輸出一律使用繁體中文撰寫（包括標題、清單、引言等）。
 description: Create or update the project constitution from interactive or provided principle inputs, ensuring all dependent templates stay in sync.
 handoffs: 
   - label: Build Specification

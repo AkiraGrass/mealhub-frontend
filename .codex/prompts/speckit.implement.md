@@ -1,4 +1,5 @@
 ---
+mata: 所有輸出一律使用繁體中文撰寫（包括標題、清單、引言等）。
 description: Execute the implementation plan by processing and executing all tasks defined in tasks.md
 ---
 

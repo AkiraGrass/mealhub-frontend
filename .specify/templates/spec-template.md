@@ -75,6 +75,11 @@
 - What happens when [boundary condition]?
 - How does system handle [error scenario]?
 
+### Out of Scope *(mandatory)*
+
+- [Explicitly list what this feature does NOT include]
+- [List deferred items to prevent scope creep]
+
 ## Requirements *(mandatory)*
 
 <!--
@@ -94,6 +99,21 @@
 
 - **FR-006**: System MUST authenticate users via [NEEDS CLARIFICATION: auth method not specified - email/password, SSO, OAuth?]
 - **FR-007**: System MUST retain user data for [NEEDS CLARIFICATION: retention period not specified]
+
+### Non-Functional Requirements *(mandatory)*
+
+- **NFR-001 (Performance)**: [Define measurable frontend performance target]
+- **NFR-002 (Accessibility)**: [Define accessibility baseline, e.g., keyboard navigation, contrast]
+- **NFR-003 (Observability)**: [Define required tracking/logging for key user flows]
+- **NFR-004 (Security/Privacy)**: [Define sensitive data handling and client-side constraints]
+
+### Technical Stack & Dependencies *(mandatory for frontend)*
+
+- **TS-001 (Framework)**: [Specify Vue version and SFC conventions]
+- **TS-002 (Routing/State)**: [Specify `vue-router` and `pinia` usage scope]
+- **TS-003 (Testing Unit/Component)**: [Specify `vitest` + `@vue/test-utils` test scope]
+- **TS-004 (E2E)**: [Specify `playwright` or `cypress` coverage for critical flows]
+- **TS-005 (Quality Gates)**: [Specify `eslint`/`prettier`/type-check commands]
 
 ### Key Entities *(include if feature involves data)*
 

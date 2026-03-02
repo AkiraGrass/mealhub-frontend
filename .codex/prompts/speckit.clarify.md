@@ -1,4 +1,5 @@
 ---
+mata: 所有輸出一律使用繁體中文撰寫（包括標題、清單、引言等）。
 description: Identify underspecified areas in the current feature spec by asking up to 5 highly targeted clarification questions and encoding answers back into the spec.
 handoffs: 
   - label: Build Technical Plan

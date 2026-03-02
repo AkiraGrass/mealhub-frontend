@@ -1,4 +1,5 @@
 ---
+mata: 所有輸出一律使用繁體中文撰寫（包括標題、清單、引言等）。
 description: Convert existing tasks into actionable, dependency-ordered GitHub issues for the feature based on available design artifacts.
 tools: ['github/github-mcp-server/issue_write']
 ---

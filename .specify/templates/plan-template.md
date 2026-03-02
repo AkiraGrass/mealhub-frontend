@@ -31,7 +31,13 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+- Value alignment defined: target user, problem, and success metric are explicit.
+- Scope boundaries defined: in-scope, out-of-scope, dependencies, and risks captured.
+- Acceptance testability confirmed: each user story has verifiable acceptance criteria.
+- Frontend states covered: loading, empty, error, timeout, and permission-denied handled.
+- Consistency impact reviewed: naming, architecture, and design system alignment documented.
+- Quality baseline planned: testing approach, observability, performance, accessibility, and security included.
+- Vue stack readiness confirmed: router/state, unit test, E2E, lint, format, and type-check tools selected.
 
 ## Project Structure
 
