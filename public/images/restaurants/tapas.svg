@@ -1,0 +1,14 @@
+<svg width="400" height="240" viewBox="0 0 400 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tapasGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f1a2c" />
+      <stop offset="100%" stop-color="#402d64" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="240" rx="24" fill="url(#tapasGradient)" />
+  <circle cx="120" cy="130" r="54" fill="#f0a500" opacity="0.8" />
+  <circle cx="220" cy="150" r="46" fill="#ff5f45" opacity="0.8" />
+  <circle cx="300" cy="110" r="36" fill="#ffd369" opacity="0.7" />
+  <path d="M80 190 H320" stroke="#ffffff" stroke-width="8" stroke-linecap="round" opacity="0.4" />
+  <path d="M60 70 L340 70" stroke="#ffffff" stroke-width="4" stroke-linecap="round" opacity="0.2" />
+</svg>

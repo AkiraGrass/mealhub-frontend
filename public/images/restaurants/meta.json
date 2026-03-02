@@ -1,0 +1,19 @@
+{
+  "lastUpdated": "2026-03-01",
+  "mapping": [
+    { "cuisineType": "fine-dining", "image": "fine-dining.svg", "alt": "精緻餐廳主題圖片", "isFallback": false },
+    { "cuisineType": "modern-bistro", "image": "bistro.svg", "alt": "現代餐酒館風格圖片", "isFallback": false },
+    { "cuisineType": "bbq-house", "image": "grill.svg", "alt": "炭烤餐廳風格圖片", "isFallback": false },
+    { "cuisineType": "cafe", "image": "cafe.svg", "alt": "咖啡廳與輕食風格圖片", "isFallback": false },
+    { "cuisineType": "ramen", "image": "ramen.svg", "alt": "亞洲麵食餐廳風格圖片", "isFallback": false },
+    { "cuisineType": "seafood", "image": "seafood.svg", "alt": "海鮮酒吧主題圖片", "isFallback": false },
+    { "cuisineType": "sushi", "image": "sushi.svg", "alt": "壽司與日式無菜單主題圖片", "isFallback": false },
+    { "cuisineType": "steakhouse", "image": "steakhouse.svg", "alt": "牛排餐館主題圖片", "isFallback": false },
+    { "cuisineType": "vegan", "image": "vegan.svg", "alt": "蔬食花園餐廳圖片", "isFallback": false },
+    { "cuisineType": "dessert", "image": "dessert.svg", "alt": "甜點酒吧主題圖片", "isFallback": false },
+    { "cuisineType": "tapas", "image": "tapas.svg", "alt": "西班牙小吃餐酒館圖片", "isFallback": false },
+    { "cuisineType": "mexican", "image": "mexican.svg", "alt": "墨西哥風味餐廳圖片", "isFallback": false },
+    { "cuisineType": "fusion", "image": "bistro.svg", "alt": "融合料理餐酒館圖片", "isFallback": false },
+    { "cuisineType": "default", "image": "default.svg", "alt": "餐廳預設圖片", "isFallback": true }
+  ]
+}

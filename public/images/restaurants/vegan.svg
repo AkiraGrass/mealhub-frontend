@@ -1,0 +1,13 @@
+<svg width="400" height="240" viewBox="0 0 400 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="veganGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b2b24" />
+      <stop offset="100%" stop-color="#0f5132" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="240" rx="24" fill="url(#veganGradient)" />
+  <path d="M200 60 C 160 90, 140 130, 140 170 C 170 150, 190 130, 200 110 C 210 130, 230 150, 260 170 C 260 130, 240 90, 200 60Z" fill="#7ed957" opacity="0.9" />
+  <path d="M200 110 L200 200" stroke="#e8f5e9" stroke-width="6" stroke-linecap="round" />
+  <circle cx="120" cy="150" r="20" fill="#7ed957" opacity="0.6" />
+  <circle cx="280" cy="150" r="18" fill="#7ed957" opacity="0.5" />
+</svg>

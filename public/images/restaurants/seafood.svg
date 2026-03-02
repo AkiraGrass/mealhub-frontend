@@ -1,0 +1,13 @@
+<svg width="400" height="240" viewBox="0 0 400 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="seaGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#072b43" />
+      <stop offset="100%" stop-color="#0b7480" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="240" rx="24" fill="url(#seaGradient)" />
+  <path d="M40 150 C 120 80, 200 80, 280 150 S 360 220, 400 140" stroke="#8fe8ff" stroke-width="10" fill="none" opacity="0.4" />
+  <circle cx="130" cy="80" r="36" fill="#f6d365" opacity="0.8" />
+  <path d="M190 150 Q 220 120, 250 150 T 310 150" stroke="#f0f5ff" stroke-width="6" fill="none" stroke-linecap="round" />
+  <path d="M90 175 Q 130 210, 170 175" stroke="#f0f5ff" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.7" />
+</svg>

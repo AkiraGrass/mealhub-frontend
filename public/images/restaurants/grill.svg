@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" fill="none">
+  <rect width="1200" height="800" fill="#FFF7E6"/>
+  <rect x="90" y="90" width="1020" height="620" rx="30" fill="#FFE7BA"/>
+  <path d="M220 500L360 260L500 500H220Z" fill="#FA541C"/>
+  <path d="M460 500L600 240L740 500H460Z" fill="#D4380D"/>
+  <path d="M700 500L840 280L980 500H700Z" fill="#AD2102"/>
+  <rect x="180" y="540" width="840" height="36" rx="18" fill="#612500"/>
+  <text x="600" y="650" text-anchor="middle" fill="#873800" font-size="52" font-family="Arial">Grill House</text>
+</svg>
+

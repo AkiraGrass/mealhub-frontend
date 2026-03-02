@@ -1,0 +1,14 @@
+<svg width="400" height="240" viewBox="0 0 400 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="mexicoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#082d1f" />
+      <stop offset="100%" stop-color="#3a120c" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="240" rx="24" fill="url(#mexicoGradient)" />
+  <path d="M60 170 L140 70 L200 150 L260 70 L340 170 Z" fill="#f4c95d" opacity="0.9" />
+  <circle cx="140" cy="70" r="16" fill="#e84f22" />
+  <circle cx="260" cy="70" r="16" fill="#e84f22" />
+  <path d="M80 190 H320" stroke="#f4c95d" stroke-width="10" stroke-linecap="round" opacity="0.6" />
+  <circle cx="200" cy="130" r="32" fill="#28c76f" opacity="0.8" />
+</svg>
