@@ -1,5 +1,11 @@
 {
+  "buildCommand": "vite build",
+  "outputDirectory": "dist",
   "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "http://43.200.67.86/api/$1"
+    },
     {
       "source": "/(.*)",
       "destination": "/"
